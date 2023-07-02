@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Test Repository
+This project is a test of how to create a repository from GitHub and clone it to my computer.
